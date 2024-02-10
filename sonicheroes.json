@@ -1,0 +1,41 @@
+{
+  "teamName" : "Team Dark",
+  "location" : "Frog Forest",
+  "yearCreated" : 2003,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Shadow the Hedgehog",
+      "age" : 33,
+      "secretIdentity" : "Dan Jukes",
+      "powers" : [
+        "Run fast",
+        "Chaos Blast",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name" : "Rouge the Bat",
+      "age" : 18,
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "Fly",
+        "Glide",
+        "Climb walls"
+      ]
+    },
+    {
+      "name" : "E-123 Omega",
+      "age" : 21,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Flame throwers",
+        "missile launchers",
+        "scoop and shoot",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}
