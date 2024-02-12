@@ -1,14 +1,14 @@
 {
   "teamName" : "Team Dark",
   "location" : "Frog Forest",
-  "yearCreated" : 2003,
+  "yearCreated" : "2003",
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
       "name" : "Shadow the Hedgehog",
       "age" : 33,
-      "bio" : "He was created as the ultimate lifeform by Professor Gerald Robotnik.",
+      "bio" : "Shadow the Hedgehog is an artificially born hedgehog who was created by Professor Gerald Robotnik through genetic engineering as part of an experiment to cure his granddaughter Maria from a deadly illness. Shadow is presumed deceased until Sonic Heroes; Rouge the Bat discovers him alive in Eggman's base during a search. He remembers nothing except his name and Maria's death,[7][41] and teams up with Rouge and E-123 Omega to find Eggman and learn of his past.",
       "powers" : [
         "Run fast",
         "Chaos Blast",
@@ -18,7 +18,7 @@
     {
       "name" : "Rouge the Bat",
       "age" : 18,
-      "bio" : " She is a government agent, a self-proclaimed treasure hunter, and a former jewel thief who plans to make all the gems and treasures of the world hers.",
+      "bio" : " She is a government agent, a self-proclaimed treasure hunter, and a former jewel thief who plans to make all the gems and treasures of the world hers. Her current jewel obsessions are the Master Emerald and Chaos Emeralds. She is Shadow and Omega's best friend and Knuckles and Amy's arch-rival. Despite her rivalry with Knuckles, they have a secret crush on each other.",
       "powers" : [
         "Fly",
         "Glide",
@@ -31,10 +31,8 @@
       "bio" : "After Eggman had moved on to building bigger and better robots, he locked Omega away in one of his bases, with the implied purpose being to contain Shadow. After Rouge unwittingly awakened him, he decides to take revenge upon his creator to prove his worth, joining Rouge and Shadow on their quest.",
       "powers" : [
         "Flame throwers",
-        "missile launchers",
-        "scoop and shoot",
-        "Teleportation",
-        "Interdimensional travel"
+        "Missile launchers",
+        "Scoop and shoot",
       ]
     }
   ]
