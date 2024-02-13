@@ -1,9 +1,7 @@
 {
   "teamName" : "Team Dark",
   "location" : "Frog Forest",
-  "yearCreated" : 2003,
-  "secretBase" : "Super tower",
-  "active" : true,
+  "yearCreated" : 2003;
   "members" : [
     {
       "name" : "Shadow the Hedgehog",
